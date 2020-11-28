@@ -6,8 +6,7 @@
 export default {
   head() {
     return {
-      title: this.title + ' | Social Sharing Test',
-      link: [{ rel: 'canonical', href: 'https://blarg.net' }],
+      title: 'Social Sharing Test',
       meta: [
         {
           hid: 'description',
